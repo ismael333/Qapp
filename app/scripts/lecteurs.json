@@ -1,0 +1,252 @@
+[ 
+  {
+                "id": 0,
+                "guid": "41697974-55ed-4440-967d-b13f4965230f",
+                "nationality": "Bermuda",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Joann Shepherd",
+                "tags": [
+                    "cupidatat",
+                    "dolor",
+                    "culpa",
+                    "ea",
+                    "dolore",
+                    "eiusmod",
+                    "aliqua"
+                ],
+
+                "sourates": [
+                    0,
+                    10,
+                    15,
+                    3,
+                    6,
+                    8,
+                    9
+                ]
+            },
+            {
+                "id": 1,
+                "guid": "f098e971-8d2b-4125-a6cf-52d25e216e48",
+                "nationality": "Turkmenistan",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Sophie Potts",
+                "tags": [
+                    "adipisicing",
+                    "cillum",
+                    "et",
+                    "proident",
+                    "duis",
+                    "consectetur",
+                    "fugiat"
+                ],
+                "sourates": [
+                    5,
+                    3,
+                    2
+                ]
+            },
+            {
+                "id": 2,
+                "guid": "8d9706a6-a496-459d-af9f-0deb02f6c674",
+                "nationality": "Bolivia",
+                "isActive": false,
+                "picture": "http://placehold.it/32x32",
+                "name": "Marla Wheeler",
+                "tags": [
+                    "elit",
+                    "esse",
+                    "anim",
+                    "qui",
+                    "eu",
+                    "in",
+                    "consequat"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 3,
+                "guid": "82eecbfb-c4e3-4e8a-b467-f397435ae223",
+                "nationality": "Tajikistan",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Rios Pugh",
+                "tags": [
+                    "excepteur",
+                    "pariatur",
+                    "dolor",
+                    "nulla",
+                    "tempor",
+                    "occaecat",
+                    "exercitation"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 4,
+                "guid": "3db96ad2-33b2-459a-808f-d575a9814e86",
+                "nationality": "Benin",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Wooten Mitchell",
+                "tags": [
+                    "aute",
+                    "occaecat",
+                    "proident",
+                    "mollit",
+                    "pariatur",
+                    "occaecat",
+                    "minim"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 5,
+                "guid": "22b654b5-b169-48f2-a164-0fdef5a1ae3c",
+                "nationality": "Guinea Bissau",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Rachel Lindsey",
+                "tags": [
+                    "proident",
+                    "ut",
+                    "ullamco",
+                    "incididunt",
+                    "deserunt",
+                    "nulla",
+                    "officia"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 6,
+                "guid": "adcbecb5-c17b-4f59-b75c-2310df12d170",
+                "nationality": "Burundi",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Blake Martin",
+                "tags": [
+                    "est",
+                    "reprehenderit",
+                    "sunt",
+                    "occaecat",
+                    "duis",
+                    "officia",
+                    "dolore"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 7,
+                "guid": "75dbf3f5-1577-4ded-b048-edd2fd06d0d4",
+                "nationality": "Aruba",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Madge Aguilar",
+                "tags": [
+                    "consectetur",
+                    "ut",
+                    "in",
+                    "id",
+                    "cupidatat",
+                    "adipisicing",
+                    "proident"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 8,
+                "guid": "b624ccf0-5abc-4e30-b941-0b5f3e99eaab",
+                "nationality": "Colombia",
+                "isActive": false,
+                "picture": "http://placehold.it/32x32",
+                "name": "Randolph Roberts",
+                "tags": [
+                    "consequat",
+                    "magna",
+                    "consequat",
+                    "laborum",
+                    "ullamco",
+                    "ipsum",
+                    "consectetur"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 9,
+                "guid": "623037cc-427e-4183-8771-58c7cd03851f",
+                "nationality": "Afghanistan",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Antoinette Hunt",
+                "tags": [
+                    "labore",
+                    "veniam",
+                    "dolor",
+                    "eiusmod",
+                    "consectetur",
+                    "esse",
+                    "duis"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 10,
+                "guid": "c6a5ab44-f900-4445-a200-8f65a98856ab",
+                "nationality": "Thailand",
+                "isActive": true,
+                "picture": "http://placehold.it/32x32",
+                "name": "Calhoun Marquez",
+                "tags": [
+                    "commodo",
+                    "amet",
+                    "culpa",
+                    "officia",
+                    "sunt",
+                    "et",
+                    "qui"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            },
+            {
+                "id": 11,
+                "guid": "a25430eb-a029-4dca-847d-10ef7e935edb",
+                "nationality": "Reunion",
+                "isActive": false,
+                "picture": "http://placehold.it/32x32",
+                "name": "Fannie Cobb",
+                "tags": [
+                    "est",
+                    "magna",
+                    "ipsum",
+                    "mollit",
+                    "do",
+                    "voluptate",
+                    "laboris"
+                ],
+                 "sourates": [
+        10,12,14
+                ]
+            }
+
+    ]

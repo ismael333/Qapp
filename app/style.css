@@ -1,0 +1,102 @@
+@import url("//fonts.googleapis.com/css?family=Droid+Sans:400,700");
+.navbar {
+  border-bottom: 1px solid #282828;
+}
+.text-primary,
+.text-primary:hover {
+  color: #2a9fd6;
+}
+.text-success,
+.text-success:hover {
+  color: #77b300;
+}
+.text-danger,
+.text-danger:hover {
+  color: #cc0000;
+}
+.text-warning,
+.text-warning:hover {
+  color: #ff8800;
+}
+.text-info,
+.text-info:hover {
+  color: #9933cc;
+}
+table,
+.table {
+  color: #fff;
+}
+table a,
+.table a {
+  color: #fff;
+  text-decoration: underline;
+}
+table .text-muted,
+.table .text-muted {
+  color: #888888;
+}
+.table-responsive > .table {
+  background-color: #181818;
+}
+.has-warning .help-block,
+.has-warning .control-label,
+.has-warning .form-control-feedback {
+  color: #ff8800;
+}
+.has-warning .form-control,
+.has-warning .form-control:focus {
+  border-color: #ff8800;
+}
+.has-error .help-block,
+.has-error .control-label,
+.has-error .form-control-feedback {
+  color: #cc0000;
+}
+.has-error .form-control,
+.has-error .form-control:focus {
+  border-color: #cc0000;
+}
+.has-success .help-block,
+.has-success .control-label,
+.has-success .form-control-feedback {
+  color: #77b300;
+}
+.has-success .form-control,
+.has-success .form-control:focus {
+  border-color: #77b300;
+}
+legend {
+  color: #fff;
+}
+.input-group-addon {
+  background-color: #424242;
+}
+.nav-tabs a,
+.nav-pills a,
+.breadcrumb a,
+.pager a {
+  color: #fff;
+}
+.alert .alert-link,
+.alert a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+.alert .close {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.4;
+}
+.alert .close:hover,
+.alert .close:focus {
+  color: #fff;
+  opacity: 1;
+}
+.jumbotron h1,
+.jumbotron h2,
+.jumbotron h3,
+.jumbotron h4,
+.jumbotron h5,
+.jumbotron h6 {
+  color: #fff;
+}

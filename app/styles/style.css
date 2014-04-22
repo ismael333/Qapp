@@ -1,0 +1,289 @@
+
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+body{
+
+background-color: #1a242f;
+
+
+}
+
+#topper{
+
+	height:70px;
+	
+}
+
+.rowrecitateur{
+	margin-top: 20px;
+
+
+height:480px;
+background-color: #eee;
+
+
+}
+.rowsourates{
+
+	height:300px;
+	
+
+
+
+
+}
+
+.leres{
+
+height:40px;
+
+margin-top: 20px;
+padding-left: 20px;
+
+
+}
+
+.lerecit{
+
+display:block;
+float: left;
+margin: 5px;
+width:165px;
+
+}
+
+.lesros{
+
+	margin-top: 20px;
+
+
+
+
+}
+
+.lesros a{
+
+  color: #3ba89c;
+
+
+
+
+}
+.rowtous{
+
+	padding-left: 10px;
+	height: 350px;
+
+	
+
+
+
+}
+
+.rownav{
+
+    display:block;
+
+
+
+
+	height: 40px;
+
+
+
+}
+
+
+
+
+
+
+
+ .repeat-item.ng-enter,
+.repeat-item.ng-leave{
+    -webkit-transition: 400ms cubic-bezier(0.250, 0.250, 0.750, 0.750) all;
+    -moz-transition: 400ms cubic-bezier(0.250, 0.250, 0.750, 0.750) all;
+    -ms-transition: 400ms cubic-bezier(0.250, 0.250, 0.750, 0.750) all;
+    -o-transition: 400ms cubic-bezier(0.250, 0.250, 0.750, 0.750) all;
+    transition: 400ms cubic-bezier(0.250, 0.250, 0.750, 0.750) all;
+    position: relative;
+    display: block;
+    }
+     
+.repeat-item.ng-enter,
+.repeat-item.ng-leave.ng-leave-active  {
+    -webkit-transform: scaleY(0) scaleX(0);
+    -moz-transform: scaleY(0) scaleX(0);
+    -ms-transform: scaleY(0) scaleX(0);
+    -o-transform: scaleY(0) scaleX(0);
+    transform: scaleY(0) scaleX(0);
+    height: 0px;
+    opacity: 0;
+    }
+     
+.repeat-item.ng-leave,
+.repeat-item.ng-enter.ng-enter-active {
+    -webkit-transform: scaleY(1) scaleX(1);
+    -moz-transform: scaleY(1) scaleX(1);
+    -ms-transform: scaleY(1) scaleX(1);
+    -o-transform: scaleY(1) scaleX(1);
+    transform: scaleY(1) scaleX(1);
+    height: 30px;
+    opacity: 1;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+#souratetabled{
+	background-color: #eee;
+	height:500px;
+
+
+
+
+
+	
+
+
+}
+
+.lesingle{
+
+	display: block;
+
+	margin-left: 100px;
+	margin-right: 100px
+	
+
+
+
+
+}
+
+#lemediaplayer{
+
+
+
+	background-color: #1a242f;
+	height:800px;
+}
+
+.table-striped>thead tr{
+background-color: #2b4663;
+
+color: white;
+position: static;
+
+}
+
+
+
+.table-striped>tbody>tr:nth-child(even)>td, 
+.table-striped>tbody>tr:nth-child(even)>th {
+   background-color: #246961;
+   color: white;
+ }
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+   background-color: #3BA89C;
+   color: white;
+ }
+
+
+ .table-striped>tbody>tr:nth-child(odd)>td a, 
+.table-striped>tbody>tr:nth-child(odd)>th a {
+ 
+   color: white;
+ }
+
+
+
+  .table-striped>tbody>tr:nth-child(even)>td a, 
+.table-striped>tbody>tr:nth-child(even)>th a {
+ 
+   color: white;
+ }
+
+
+ #theplayer{
+
+ 	margin-left:15px;
+ 	padding-top: 20px;
+
+
+
+
+ }
+ .jp-playlist ul{
+
+
+ 	background-color: #1a242f;
+ 	
+ }
+.jp-playlist{
+
+
+ 	border: none;
+ }
+
+.jp-type-playlist{
+
+	border: none;
+
+}
+.jp-interface{
+
+	background-color: #1a242f;
+	background-image: none;
+}
+
+.jp-audio{
+
+	border: none;
+
+
+}
+
+#latable {
+
+
+
+	max-height: 400px !important;
+    overflow-y: scroll;
+    width: 520px;
+   
+    margin-left: 60px;
+}
+.navbar-nav{
+
+
+	margin-left: 350px;
+}
+
+
+
+#containeros{
+
+  width: 1300px !important;
+
+}
+.col-lg-6{
+
+    width: 600px !important;
+}
+.coca{
+
+    position: relative;
+}
+
+

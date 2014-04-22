@@ -1,0 +1,373 @@
+[
+    {
+        "id": 0,
+        "name": "Abdelbari Al-Toubayti",
+        "slug": "abdelbari-al-toubayti",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 1,
+        "name": "Abdul Aziz Al-Ahmad",
+        "slug": "abdul-aziz-al-ahmad",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 2,
+        "name": "Abdulaziz Az-Zahrani",
+        "slug": "abdulaziz-az-zahrani",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "non",
+        "fork": "peu",
+        "souratefork": [32,36,38,44,50  
+        ]
+        
+    },
+
+        {
+        "id": 3,
+        "name": "Abdulbari Mohammad",
+        "slug": "abdulbari-mohammad",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "unkown",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 4,
+        "name": "Abdulbari Mohammad",
+        "slug": "abdulbari-mohammad2",
+        "typerecitation": "Almusshaf Al Mo'lim",
+        "country": "unkown",
+        "complet": "non",
+        "fork": "beaucoup",
+        "souratefork": [2,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26     
+        ]
+        
+    },
+
+        {
+        "id": 5,
+        "name": "Abdulbasit Abdulsamad",
+        "slug": "abdulbasit-abdulsamad",
+        "typerecitation": "Rewayat Warsh A'n Nafi'",
+        "country": "egypt",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 6,
+        "name": "Abdulbasit Abdulsamad",
+        "slug": "abdulbasit-abdulsamad2",
+        "typerecitation": "Almusshaf Al Mojawwad",
+        "country": "egypt",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 7,
+        "name": "Abdulbasit Abdulsamad",
+        "slug": "abdulbasit-abdulsamad3",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "egypt",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 8,
+        "name": "Abdulghani Abdullah",
+        "slug": "abdulghani-abdullah-from-malaysia",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "malaysia",
+        "complet": "non",
+        "fork": "peu",
+        "souratefork": [1,2,5,6,9,67,87,91,92,94,95,97,114        
+        ]
+        
+    },
+
+        {
+        "id": 9,
+        "name": "Abdulhadi Kanakeri",
+        "slug": "abdulhadi-kanakeri",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "syria",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 10,
+        "name": "Abdullah Al-Burimi",
+        "slug": "abdullah-al-burimi",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "unkown",
+        "complet": "non",
+        "fork": "peu",
+        "souratefork": [1,49,50,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95        
+        ]
+        
+    },
+
+        {
+        "id": 11,
+        "name": "Abdullah Al-Johany",
+        "slug": "abdullah-al-johany",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 12,
+        "name": "Abdullah Al-Kandari",
+        "slug": "abdullah-al-kandari",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "unkown",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 13,
+        "name": "Abdullah Al-Mattrod",
+        "slug": "abdullah-al-mattrod",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 14,
+        "name": "Abdullah Albuajan",
+        "slug": "abdullah-albuajan",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "unkown",
+        "complet": "non",
+        "fork": "peu",
+        "souratefork": [  12,14,17,33,34      
+        ]
+        
+    },
+
+        {
+        "id": 15,
+        "name": "Abdullah Basfer",
+        "slug": "abdullah-basfer",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 16,
+        "name": "Abdullah Fahmi",
+        "slug": "abdullah-fahmi-from-malaysia",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "malaysia",
+        "complet": "non",
+        "fork": "peu",
+        "souratefork": [1,36,53,75       
+        ]
+        
+    },
+
+        {
+        "id": 17,
+        "name": "Abdullah Khayyat",
+        "slug": "abdullah-khayyat",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    }
+    ,
+
+        {
+        "id": 18,
+        "name": "Abdullah Qaulan",
+        "slug": "abdullah-qaulan",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "unkown",
+        "complet": "non",
+        "fork": "peu",
+        "souratefork": [20,21       
+        ]
+        
+    },
+
+        {
+        "id": 19,
+        "name": "Abdulmohsen Al-Qasim",
+        "slug": "abdulmohsen-al-qasim",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [        
+        ]
+        
+    },
+
+        {
+        "id": 20,
+        "name": "Abdulmohsin Al-Askar",
+        "slug": "abdulmohsin-al-askar",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "unkown",
+        "complet": "non",
+        "fork": "peu",
+        "souratefork": [1,2,7,55        
+        ]
+        
+    },
+
+        {
+        "id": 21,
+        "name": "Abdulmohsin Al-Harthy",
+        "slug": "abdulmohsin-al-harthy",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "unkown",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [
+        ]
+        
+    },
+
+        {
+        "id": 22,
+        "name": "Abdulmohsin Al-Obaikan",
+        "slug": "abdulmohsin-al-obaikan",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "unkown",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [
+        ]
+        
+    },
+
+        {
+        "id": 23,
+        "name": "Abdulrahman Alsudaes",
+        "slug": "abdulrahman-alsudaes",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [
+        ]
+        
+    },
+
+        {
+        "id": 24,
+        "name": "Abdulrasheed Soufi",
+        "slug": "abdulrasheed-soufi",
+        "typerecitation": "Rewayat Assosi A'n Abi Amr",
+        "country": "somalia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [
+        ]
+        
+    },
+
+        {
+        "id": 25,
+        "name": "Abdulrasheed Soufi",
+        "slug": "abdulrasheed-soufi2",
+        "typerecitation": "Khalaf An Hamzah",
+        "country": "somalia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [
+        ]
+        
+    },
+
+        {
+        "id": 26,
+        "name": "Abdulwadood Haneef",
+        "slug": "abdulwadood-haneef",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "oui",
+        "fork": "",
+        "souratefork": [
+        ]
+        
+    },
+
+        {
+        "id": 27,
+        "name": "Abdulwali Al-Arkani",
+        "slug": "abdulwali-al-arkani",
+        "typerecitation": "Rewayat Hafs A'n Assem",
+        "country": "saudia",
+        "complet": "non",
+        "fork": "peu",
+        "souratefork": [1,2,3,7,12,14,15,16,17,18,19,20,31,36,37,39,40,49,55,56,67,68,69,70,71,72,73,74,75,76,77
+        ]
+        
+    }
+
+
+
+
+
+
+
+]

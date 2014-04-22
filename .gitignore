@@ -1,5 +1,8 @@
 node_modules
+<<<<<<< HEAD
 
+=======
+>>>>>>> a14193c25f8e7ea5f23cf9eb3e58e666f15ad6ec
 .tmp
 .sass-cache
 bower_components
